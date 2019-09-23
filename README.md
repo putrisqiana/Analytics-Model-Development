@@ -45,12 +45,12 @@ By It result we can see that who is the customer that can get the credit or not.
 "Customer cant get the credit" is the result of customer who cant take the credit by A company.
 
 Notes : 
-- flask-salary-predictor
+- flask-salary-predictor <br>
 This is project predicts the salary of the employee based on the experience.
-- Model
+- Model<br>
 model.py trains and saves the model to the disk.
--Server
+- Server<br>
 server.py contains all the requiered for flask and to manage APIs.
--Request
+- Request<br>
 request.py contains the python code to process POST request to server.
 
