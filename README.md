@@ -1,7 +1,4 @@
-# Analytics-Model-Development
-
 # Analytic-Model-Deployment
-Analytic Model Deployment
 
 In this repositories, we want to test the model deployment of Credit Scoring using Random Forest Classifier Algorithm. In this case, there was a data of customer that ever take a credit scoring from A company. Then, we have to make model to test the new customer will get the credit from A company or not. 
 
